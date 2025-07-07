@@ -1,4 +1,4 @@
-# pokemon-rock-paper-scissors
+# pokemon-rps
 Pokemon "Rock Paper Scissors" Webapp using React, Vite, and Poke API
 
 
